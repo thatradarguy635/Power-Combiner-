@@ -77,7 +77,7 @@ The impedance characteristics of the designed structure were analyzed using CST 
 
 The simulated S-parameter response is used to evaluate the RF performance of the power-combining network.
 
-![S-Parameter Results](results/S_parameters.png)
+![S-Parameter Results](results/S-parameters.png)
 
 ---
 
