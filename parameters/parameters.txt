@@ -1,8 +1,12 @@
-stripw="3.05" ""
-t="0.035" ""
-jun="48.6" ""
-w70="1.6492107578262" ""
-jun2="31.65" ""
-subx="108.2" ""
-suby="83.3" ""
-h="1.6" ""
+### Design Parameters
+
+| Parameter | Value | Unit | Description |
+|---|---:|:---:|---|
+| `stripw` | 3.05 | mm | Main transmission-line width |
+| `t` | 0.035 | mm | Copper thickness |
+| `jun` | 48.6 | mm | Junction length |
+| `w70` | 1.6492 | mm | 70 Ω transmission-line width |
+| `jun2` | 31.65 | mm | Secondary junction dimension |
+| `subx` | 108.2 | mm | Substrate length |
+| `suby` | 83.3 | mm | Substrate width |
+| `h` | 1.6 | mm | Substrate thickness |
