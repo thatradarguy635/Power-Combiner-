@@ -84,6 +84,15 @@ The simulated S-parameter response is used to evaluate the RF performance of the
 ## Project Parameters
 
 The design parameters used in the CST model are provided separately in:
+### Design Parameters
 
-```text
-parameters/parameters.txt
+| Parameter | Value | Unit | Description |
+|---|---:|:---:|---|
+| `stripw` | 3.05 | mm | Main transmission-line width |
+| `t` | 0.035 | mm | Copper thickness |
+| `jun` | 48.6 | mm | Junction length |
+| `w70` | 1.6492 | mm | 70 Ω transmission-line width |
+| `jun2` | 31.65 | mm | Secondary junction dimension |
+| `subx` | 108.2 | mm | Substrate length |
+| `suby` | 83.3 | mm | Substrate width |
+| `h` | 1.6 | mm | Substrate thickness |
